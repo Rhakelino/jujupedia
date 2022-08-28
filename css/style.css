@@ -1,0 +1,17 @@
+.slider h3,
+.slider h5
+.clients h3{
+    text-shadow: 2px 2px 4px rgba(0,0,0.5);
+}
+.parallax-container{
+    height: 50%;
+}
+.clients img{
+    max-width: 80px;
+}
+section{
+    padding: 20px 0;
+}
+.row img{
+    margin-bottom: 10px;
+}
